@@ -1,2 +1,2 @@
 # node-repl
-debugging application using bash and REPL
+debugging application using bash with node REPL
